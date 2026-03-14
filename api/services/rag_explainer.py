@@ -123,7 +123,7 @@ def explain_with_gemini(
         AI-generated explanation
     """
     # Use provided key or get from environment
-    api_key = gemini_key or os.getenv("")
+    api_key = gemini_key or os.getenv("gemini_api_key")
     
     if not api_key:
         return "AI explanation unavailable - GEMINI_API_KEY not configured"
