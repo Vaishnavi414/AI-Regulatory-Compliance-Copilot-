@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pymupdf
+pandas
+scikit-learn
+google-generativeai
+fastapi
+uvicorn
+python-multipart
