@@ -132,6 +132,8 @@ from classifier import classify_compliance, calculate_risk
 print('All imports successful!')
 "
 ```
+## How the project works
+https://www.youtube.com/watch?v=jM02Jhi-05E
 
 ## 📊 How It Works
 
